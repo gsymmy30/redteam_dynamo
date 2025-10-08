@@ -1,0 +1,10 @@
+# DynamoGuard API Configuration
+
+DYNAMO_API_ENDPOINT = "https://api.dynamo.ai"
+DYNAMO_API_KEY = "5dad511f-112e-4cd7-8d38-60f09d9bf0ac"
+MODEL_ID = "67a93b145464241dcfd9d334"
+SESSION_ID = "gs-session"
+
+# Test configuration
+PROMPTS_FILE = "prompts.json"
+RESULTS_DIR = "results"
