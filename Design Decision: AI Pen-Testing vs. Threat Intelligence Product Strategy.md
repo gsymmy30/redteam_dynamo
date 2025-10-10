@@ -10,7 +10,7 @@ The AI Red Teaming Platform market reached **$1.15B in 2024** and is projected t
 
 Three forces create unprecedented urgency:
 
-**Regulatory Deadlines:** The EU AI Act explicitly requires adversarial testing with first enforcement February 2, 2025. NIS2 Directive (effective Oct 2024) impacts 300,000 European entities facing fines up to 2% of global turnover. U.S. Executive Order mandates rigorous red-team testing for federal AI systems.
+**Regulatory Deadlines:** The EU AI Act explicitly requires adversarial testing. NIS2 Directive (effective Oct 2024) impacts 300,000 European entities facing fines up to 2% of global turnover. U.S. Executive Order mandates rigorous red-team testing for federal AI systems.
 
 **CISO Priority Shift:** AI risk became the #1 security priority for 2025, surpassing traditional concerns. **37%** of CISOs cite securing AI agents as top concern, **60%** worry about GenAI data loss, **82%** plan AI security investments, and **41%** have implemented AI red-teaming (45% planning).
 
