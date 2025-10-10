@@ -63,7 +63,7 @@ Launch Product 1 first to generate proprietary vulnerability data, then add Prod
 | Proactive Threat Awareness | 3/5 | Partial (2/5) - Limited to customer's system | Excellent (5/5) - Global landscape visibility | **P2** |
 | Demonstrable Due Diligence | 5/5 | Excellent (5/5) - Tangible proof for boards/regulators | Good (3/5) - Strategic but not actionable | **P1** |
 
-**Conclusion:** Product 1 wins on the two highest-urgency jobs (compliance + pre-release testing) driven by February 2025 regulatory deadline.
+**Conclusion:** Product 1 wins on the two highest-urgency jobs (compliance + pre-release testing) driven by regulatory deadline.
 
 #### **Framework 2: Market Dynamics**
 
@@ -141,7 +141,7 @@ Both are **Product Development** strategies (new product, existing market):
 **Why Product 1 Wins:**
 
 **1. Regulatory Urgency Creates Unrepeatable Window**  
-EU AI Act's February 2025 deadline creates time-bounded demand for compliance-focused testing. CISOs need audit-ready evidence *now*—Product 1 delivers this, Product 2 provides strategic context but not proof.
+EU AI Act creates time-bounded demand for compliance-focused testing. CISOs need audit-ready evidence *now*—Product 1 delivers this, Product 2 provides strategic context but not proof.
 
 **2. Data Flywheel is Asymmetric**  
 Every Product 1 test enriches proprietary vulnerability corpus—this becomes Product 2's core asset. Attempting Product 2 first requires expensive lab testing to "buy" knowledge that Product 1 earns through revenue-generating customer relationships.
